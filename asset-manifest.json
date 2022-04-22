@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/job-site-React/static/js/main.d6c98e34.js",
+    "static/media/hero.jpg": "/job-site-React/static/media/hero.758196d825deaafd3154.jpg",
+    "static/media/business.jpg": "/job-site-React/static/media/business.1507166503f95eebdc9d.jpg",
+    "static/media/avatar2.png": "/job-site-React/static/media/avatar2.1bd81ec4c2e4859393ac.png",
+    "static/media/avatar1.png": "/job-site-React/static/media/avatar1.f623ea4d2ee1307688d1.png",
+    "static/media/avatar3.png": "/job-site-React/static/media/avatar3.50ddafb85a1ffd29514f.png",
+    "static/media/avatar4.png": "/job-site-React/static/media/avatar4.0ce1649c2468b230cc59.png",
+    "static/media/googleappstore.png": "/job-site-React/static/media/googleappstore.c196655d8a8b42127929.png",
+    "static/media/appstore.png": "/job-site-React/static/media/appstore.be497785d0cd66fda34a.png",
+    "static/media/logo7.svg": "/job-site-React/static/media/logo7.03343e9bae1c9c593b606f04274d5c0a.svg",
+    "static/media/logo3.svg": "/job-site-React/static/media/logo3.84559ec32301ad72530a7db9d154e2ba.svg",
+    "static/media/logo6.svg": "/job-site-React/static/media/logo6.8c66a55cad0cfa7ebd2c5bbb0ab2d138.svg",
+    "static/media/logo5.svg": "/job-site-React/static/media/logo5.e742f04c01b808620c512410b37fcbc0.svg",
+    "static/media/apply2.svg": "/job-site-React/static/media/apply2.8cfc7acd196c9a4e25835adcae2ae40c.svg",
+    "static/media/logo2.svg": "/job-site-React/static/media/logo2.a036d0054325e387d8566d5e41dac17d.svg",
+    "static/media/add.svg": "/job-site-React/static/media/add.714c9b64e8ec5519163833ee3cac49a2.svg",
+    "static/media/logo4.svg": "/job-site-React/static/media/logo4.939b070516e1b55621cd261d5054875d.svg",
+    "static/media/bookmark.svg": "/job-site-React/static/media/bookmark.c18283eb0dcdc54852194d87e4d40142.svg",
+    "static/media/apply.svg": "/job-site-React/static/media/apply.b2cc8291a2bd19a8dee41e628e3ac8ef.svg",
+    "static/media/search2.svg": "/job-site-React/static/media/search2.917abc3eaaaec8e29ba33945a2efa972.svg",
+    "static/media/search.svg": "/job-site-React/static/media/search.5a3c3082ad84d4a34fdacc262ef6fb45.svg",
+    "index.html": "/job-site-React/index.html",
+    "static/media/logo1.svg": "/job-site-React/static/media/logo1.2aeac3bcbdad8d86b71fd1245aaa8efe.svg",
+    "static/media/star_half.svg": "/job-site-React/static/media/star_half.7dd8f8a17889b4c96c9b09a02d06bb38.svg",
+    "static/media/star.svg": "/job-site-React/static/media/star.dec0330a416451bb98bfb0d76dfdc502.svg",
+    "main.d6c98e34.js.map": "/job-site-React/static/js/main.d6c98e34.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6c98e34.js"
+  ]
+}
