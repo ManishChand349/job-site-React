@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./components/Header";
+import SectionCategory from "./components/SectionCategory";
+import SectionDownlond from "./components/SectionDownlond";
+import SectionFooter from "./components/SectionFooter";
+import SectionJobs from "./components/SectionJobs";
+import SectionService from "./components/SectionService";
+import SectionStaff from "./components/SectionStaff";
+import SubscribeSection from "./components/SubscribeSection";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <SectionCategory />
+      <SectionJobs />
+      <SectionService/>
+      <SectionDownlond />
+      <SectionStaff/>
+      <SubscribeSection/>
+      <SectionFooter/>
     </div>
   );
 }
