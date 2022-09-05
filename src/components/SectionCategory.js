@@ -12,7 +12,7 @@ function SectionCategory() {
                    <Title name={'All Categories'} para={'lorem , ipsum dolor i ma going to school by bus and my grilfind nisha my is not come i life i don '}/>
               </div>
               <div className="category-con">    
-               <CatBtn name={'Frontend Developer (600)'}/>
+               <CatBtn name={'Frontend Developer (601)'}/>
                <CatBtn name={'Backend Developer 650)'}/>
                <CatBtn name={'Full Stack Developer (900)'}/>
                <CatBtn name={'Game Developer (600+)'}/>
